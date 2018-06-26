@@ -5,5 +5,4 @@
 * 墨水屏作为显示屏保护眼睛
 * 或许做完还可以带回学校用？？？（高端操作233，早上6:30一大早就放歌。。。嘿嘿嘿）
 ## 做
-* 要学一些C/C++知识 -> 教程网站 [C++](http://www.runoob.com/cplusplus) [C](http://www.runoob.com/cprogramming/)
-* ？ 待发现
+* 发现用C++/C 做太麻烦，Python还找不到正确的启动方法。
